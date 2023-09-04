@@ -1,0 +1,8 @@
+node_modules
+/libs
+/apps/*/build
+/apps/*/dist
+/build
+/dist
+/packages/*/build
+/packages/*/dist

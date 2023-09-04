@@ -1,0 +1,6 @@
+build
+config/*.js
+dist
+docker
+libs
+node_modules
